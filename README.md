@@ -1,2 +1,2 @@
-# index.php => síncrona
-# index2.php => assíncrona
+index.php => síncrona
+index2.php => assíncrona
